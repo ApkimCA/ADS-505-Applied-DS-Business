@@ -4,9 +4,12 @@
 
 ## Project Objective
 
-The purpose of this project is to automate the wine 
-selection process in order to increase profit and build on the business's reputation. 
-This will be done by implementing a model that predicts the quality of the wine.
+From vendors to sommeliers, there are dozens of additional expenses when it comes to finding and 
+purchasing good quality wine. The profits of the business can no longer support the expenses of the
+wine selection process. Within a few months, the expenses will exceed profit and the business will have 
+to close. Over half the profit of restaurant businesses come from wine, taking in approximately 70% of 
+the total profit. Thus, the elimination of wine cannot not be a solution. The automation of the wine 
+selection process will reduce the expenses, allowing the business to build its finances. 
 
 ## Wine Dataset
 
