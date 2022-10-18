@@ -17,7 +17,7 @@ The dataset had the following predictors: fixed acidity, volatile acidity, citri
 free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol. The response variable was quality.
 
 There were 1,599 rows with 12 columns. No missing data was present in this dataset. The response variable was split into two 
-groups. The values of the predict variable that was 5 or less was changed to represent zero, which meant bad quality. The values
+groups. The values of the predict variable that were 5 or less was changed to represent zero, which meant bad quality. The values
 that were 6 or more were changed to 1, which meant good quality.
 
 ## Models Used in this Project
